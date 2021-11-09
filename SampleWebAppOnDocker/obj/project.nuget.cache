@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IUnMVMu0M6Er3Pb6oYGAmKfBeQ2MqFuF3oSWYlW3QyPjCf6rYMGQNNQeBdiiHKxM+NkJpmoxjq/tcm3QbB337g==",
+  "success": true,
+  "projectFilePath": "D:\\Vinay\\InterviewPrep2021\\UpSkilling\\DotNetCore\\SampleWebAppOnDocker\\SampleWebAppOnDocker\\SampleWebAppOnDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
